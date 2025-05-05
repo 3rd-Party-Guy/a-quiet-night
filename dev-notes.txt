@@ -2,4 +2,5 @@ A local journal for all my ideas and problems.
 
 05.05.25
 - Should embed LLM. Use C++. Llama.CPP could be used here. Still deciding on model. LLAMA models don't seem to be lightweight/ideal for embeddings.
+- Will try TinyLlama
 
